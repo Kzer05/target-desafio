@@ -1,4 +1,3 @@
-```markdown
 # Desafio para Estágio - 2024 da Target Sistemas
 
 Este repositório contém dois programas simples escritos em C#, desenvolvidos como parte de um desafio para Estágio - 2024 da Target Sistemas, realizado na plataforma Gupy.
@@ -44,4 +43,3 @@ O programa de inversão de texto está localizado no diretório `inverter-string
 5. Siga as instruções no terminal para inserir uma string e ver sua inversão.
 
 Este código foi desenvolvido como parte de um desafio de programação.
-```
